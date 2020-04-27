@@ -1,5 +1,9 @@
 # Web_Scraping
-Python Scripts created for scraping and storing data from various sources.
+Python Scripts created for scraping and storing data from www.outfitidentifier.com website.
+
+# Prerequisite
+1. Python installed on system - www.python.org
+2. Working knowledge of Python is preferred.
 
 # Required Python libraries - How to install them on your system
 1. Selenium - pip install selenium
