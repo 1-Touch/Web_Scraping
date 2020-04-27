@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on Mon Apr  6 10:46:42 2020
 
@@ -183,7 +182,8 @@ def scrape_func(page,link,celeb_folder_path):
 
 options = Options()
 options.headless = True
-driver_path ='C:\\Users\\Admin001\\Downloads\\chromedriver.exe' # NOTE : Replace this string with the path of chrome driver exe file on your system.
+driver_path ='C:\\Users\\Admin001\\Downloads\\chromedriver.exe'
+# NOTE : Replace this string with the path of chrome driver exe file on your system.
 
 path = os.getcwd()
 
